@@ -14,10 +14,10 @@
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vywVeeI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Under the Permissions tab set permissions for the new role.
+2. From the Add New Teams Page we can name the new team as well as assign memebers and Team lead.
 </p>
 <br />
 <p>
