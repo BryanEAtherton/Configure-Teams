@@ -17,14 +17,14 @@
 <img src="https://i.imgur.com/vywVeeI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. From the Add New Teams Page we can name the new team as well as assign memebers and Team lead.
+2. From the Add New Teams page, we can name the new Team, assign members, and select a Team lead.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1omQ4uC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-4. Under the Permissions tab set permissions for the new role.
+3. Observe the Teams page with the new Team.
 </p>
 <br />
