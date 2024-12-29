@@ -4,7 +4,7 @@
 
 <h1>osTicket - Post-Installation Configuration</h1>
 
-<h2>Configuring Teams Steps</h2>
+# Configuring Teams Steps
 <p>
 <img src="https://i.imgur.com/w6Rky4D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
