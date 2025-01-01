@@ -28,3 +28,6 @@
 3. Observe the Teams page with the new Team.
 </p>
 <br />
+
+
+[Click here to return to the osTicket Post Installation Configuration Homepage](https://github.com/BryanEAtherton/osticket-post-install-setup)
